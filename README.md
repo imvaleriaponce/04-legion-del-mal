@@ -8,6 +8,8 @@
 ![Último commit](https://img.shields.io/github/last-commit/klerithx2/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/klerithx2/legion-del-mal?cacheSeconds=60)
 
+# Cambios de Valeria realizados desde repo local
+
 # 🦹‍♂️ La Legión del Mal - Desde local
 
 ### Este es un grupo dedicado a aprender Gig + GitHub
