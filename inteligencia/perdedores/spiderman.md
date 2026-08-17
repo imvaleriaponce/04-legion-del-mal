@@ -6,3 +6,18 @@ Spiderman es un héroe de Marvel, también conocido como Peter Parker. Después 
 
 - Doctor Octopus
 - Green Goblin
+
+# Familiares
+
+- Richard Parker
+- Mary Parker
+- Ben Parker
+- May Parker
+- Teresa Parker
+- Ben Reilly
+- Kaine Parker
+- Mary Jane Watson
+- Gwen Stacy
+- May "Mayday" Parker
+- Annie May Parker
+- Ben Parker Jr.
