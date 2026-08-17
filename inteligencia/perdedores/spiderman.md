@@ -20,4 +20,3 @@ Spiderman es un héroe de Marvel, también conocido como Peter Parker. Después 
 - Gwen Stacy
 - May "Mayday" Parker
 - Annie May Parker
-- Ben Parker Jr.
